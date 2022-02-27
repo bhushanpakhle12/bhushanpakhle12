@@ -1,5 +1,15 @@
 ### Hi there 👋 I'm Bhushan Pakhle
 
+## ABOUT ME
+- Computer Engineering Student at Fr. Con ceicao Rodrigues College of Engineering
+- Enthusiast in Machine Learning
+- Have Knowledge of Front End Development
+
+## GIT STATS
+<img src="https://github-readme-stats.vercel.app/api?username=bhushanpakhle12&show_icons=true&theme=radical&title_color=00FF99&text_color=fff&icon_color=00FF99">
+
+## TOP PROGRAMMING LANGUAGES
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&theme=radical&title_color=00FF99&text_color=fff&icon_color=fff)
 <!--
 **bhushanpakhle12/bhushanpakhle12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
