@@ -11,17 +11,15 @@
 ## TOP PROGRAMMING LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&theme=radical&title_color=00FF99&text_color=fff&icon_color=fff)
 
-## Connect with me:
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background:white"/>][twitter] -->
-<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
-<i class="fa-brands fa-twitter"></i>
+<!-- ## Connect with me:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-<!-- [website]: https://google.com -->
+[website]: https://google.com
 [twitter]: https://twitter.com/Bhushan_Pakhle
-[linkedin]: https://www.linkedin.com/in/bhushan-p-pakhle-a2a16821a
+[linkedin]: https://www.linkedin.com/in/bhushan-p-pakhle-a2a16821a -->
 <!--
 **bhushanpakhle12/bhushanpakhle12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
