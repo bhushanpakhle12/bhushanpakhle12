@@ -6,10 +6,11 @@
 - Have Knowledge of Front End Development
 
 ## GIT STATS
+<!-- 
 <img src="https://github-readme-stats.vercel.app/api?username=bhushanpakhle12&show_icons=true&theme=radical&title_color=00FF99&text_color=fff&icon_color=00FF99">
 
 ## TOP PROGRAMMING LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&theme=radical&title_color=00FF99&text_color=fff&icon_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&theme=radical&title_color=00FF99&text_color=fff&icon_color=fff) -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhushanpakhle12&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bhushan's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&layout=compact&theme=buefy&hide_border=true" /></a> 
 
