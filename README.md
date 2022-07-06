@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Bhushan Pakhle
 
 ## ABOUT ME
-- Computer Engineering Student at Fr. Con ceicao Rodrigues College of Engineering
+- Computer Engineering Student at Fr. Conceicao Rodrigues College of Engineering
 - Enthusiast in Machine Learning
 - Have Knowledge of Front End Development
 
