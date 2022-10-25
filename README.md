@@ -18,6 +18,7 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... -->
+[![@bhushanpakhle's Holopin board](https://holopin.me/bhushanpakhle)](https://holopin.io/@bhushanpakhle)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
