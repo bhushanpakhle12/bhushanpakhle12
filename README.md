@@ -53,9 +53,9 @@
 
 <h2 align="center">My Github Stats </h2>
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhushanpakhle12&show_icons=true&theme=tokyonight" />
-<img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanpakhle12&theme=tokyonight" /> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bhushanpakhle12&show_icons=true&theme=radical" />
+<img width="48%"src="https://github-readme-streak-stats.herokuapp.com/?user=bhushanpakhle12&theme=radical" /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushanpakhle12&layout=compact&theme=radical" />
 </p>
 
 
@@ -65,16 +65,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@bhushanpakhle12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bhushanpakhle12" height="30" width="40" /></a>
-<a href="https://dev.to/bhushanpakhle12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bhushanpakhle12" height="30" width="40" /></a>
-<a href="https://twitter.com/bpakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bpakhle" height="30" width="40" /></a>
+<!-- <a href="https://codepen.io/@bhushanpakhle12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bhushanpakhle12" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/bhushanpakhle12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/bhushanpakhle12" height="30" width="40" /></a>
+<a href="https://twitter.com/bpakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bpakhle" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/bhushan-p-pakhle-a2a16821a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhushan-p-pakhle-a2a16821a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17476610/bhushan-pakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17476610/bhushan-pakhle" height="30" width="40" /></a>
 <a href="https://kaggle.com/bhushanpakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/bhushanpakhle" height="30" width="40" /></a>
-<a href="https://fb.com/dhruv.pakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dhruv.pakhle" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/dhruv.pakhle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dhruv.pakhle" height="30" width="40" /></a> -->
 <a href="https://instagram.com/bhushanpakhle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhushanpakhle/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dhruvpakhle4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dhruvpakhle4" height="30" width="40" /></a>
-<a href="https://codeforces.com/wisenheimer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/wisenheimer12" height="30" width="40" /></a>
+<!-- <a href="https://codeforces.com/wisenheimer12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/wisenheimer12" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/bhushanpakhle12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/bhushanpakhle12/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/dhruvpakhle4/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhruvpakhle4/profile" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/dhruvpakhle4/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/dhruvpakhle4/profile" height="30" width="40" /></a> -->
 </p>
